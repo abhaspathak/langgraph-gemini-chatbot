@@ -12,10 +12,15 @@ python-dotenv
 Project Structure
 langgraph-gemini-chatbot/
 │
+
 ├── langgraph_backend.py
+
 ├── streamlit_frontend.py
+
 ├── requirements.txt
+
 ├── .env.example
+
 └── README.md
 
 In .env file store your api key.
