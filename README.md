@@ -24,5 +24,7 @@ langgraph-gemini-chatbot/
 └── README.md
 
 In .env file store your api key.
+
 GOOGLE_API_KEY=Your_Api_key
+
  for run streamlit use streamlit run streamlit_frontend.py    
